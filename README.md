@@ -16,6 +16,17 @@ npm i -g create-init-app
 create-init-app [project name] --template [template options]
 ```
 
+## Templates
+
+We currently have an opinionated React and NextJS templates
+
+- JavaScript (ReactJS)
+- TypeScript (React TSX)
+- NextJS
+- NextJS with TypeScript
+- React-Redux
+- React-Redux TypeScript
+
 ## License
 
 MIT © Muhamad Irham Prasetyo 2020
