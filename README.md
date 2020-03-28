@@ -26,6 +26,11 @@ We currently have an opinionated React and NextJS templates
 - NextJS with TypeScript
 - React-Redux
 - React-Redux TypeScript
+- NextJS Redux TypeScript
+- React Apollo Client
+- React Apollo TypeScript
+- NextJS Apollo
+- NextJS Apollo TypeScript
 
 ## License
 
