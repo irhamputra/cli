@@ -1,11 +1,11 @@
 {
-  "name": "@get/create-get-app",
+  "name": "@initializd/create-init-app",
   "version": "1.0.0",
   "description": "A CLI to get a boilerplate to the projects",
   "main": "index.js",
   "bin": {
-    "@get/create-get-app": "bin/create-get-app",
-    "create-get-app": "bin/create-get-app"
+    "@initializd/create-init-app": "bin/create-init-app",
+    "create-init-app": "bin/create-init-app"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
