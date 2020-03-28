@@ -1,0 +1,35 @@
+{
+  "name": "@get-ag/create-get-boilerplate",
+  "version": "1.0.0",
+  "description": "A CLI to get a boilerplate to the projects",
+  "main": "index.js",
+  "bin": {
+    "@get-ag/create-get-boilerplate": "bin/create-get-boilerplate",
+    "create-get-boilerplate": "bin/create-get-boilerplate"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "create-get-boilerplate"
+  ],
+  "author": "Muhamad Irham Prasetyo",
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^4.1.3",
+    "chalk": "^3.0.0",
+    "esm": "^3.2.25",
+    "inquirer": "^7.1.0",
+    "listr": "^0.14.3",
+    "ncp": "^2.0.0",
+    "nodegit": "^0.26.5",
+    "pkg-install": "^1.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.2"
+  },
+  "prettier": {
+    "printWidth": 120
+  }
+}
