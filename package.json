@@ -1,18 +1,18 @@
 {
-  "name": "@get-ag/create-get-boilerplate",
+  "name": "@get/create-get-app",
   "version": "1.0.0",
   "description": "A CLI to get a boilerplate to the projects",
   "main": "index.js",
   "bin": {
-    "@get-ag/create-get-boilerplate": "bin/create-get-boilerplate",
-    "create-get-boilerplate": "bin/create-get-boilerplate"
+    "@get/create-get-app": "bin/create-get-app",
+    "create-get-app": "bin/create-get-app"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "CLI",
-    "create-get-boilerplate"
+    "create-get-app"
   ],
   "author": "Muhamad Irham Prasetyo",
   "license": "ISC",
